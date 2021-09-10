@@ -1,4 +1,3 @@
-## Staff Data Retention Report 
 ### IDEA Public Schools 2018-2019
 You can use the [editor on GitHub](https://github.com/gsalinas01/staff_retention/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
