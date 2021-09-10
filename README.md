@@ -3,11 +3,6 @@ The following report summarizes key data points retrieved from the 2018-2019 sch
 
 # Retention
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
 # Terminations
 ### What is the most common termination reason?
   - According to the data, the most common reason for termination is Voluntary Resignation with Notice (69% of all resignations), followed by Voluntary Resignations with no Notice (11% of all resignations.
