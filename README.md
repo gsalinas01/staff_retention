@@ -1,7 +1,5 @@
 ### IDEA Public Schools 2018-2019
-You can use the [editor on GitHub](https://github.com/gsalinas01/staff_retention/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The following report summarizes key data points retrieved from the 2018-2019 school year for IDEA Public Schools from the [18-19RetentionPull](https://github.com/gsalinas01/staff_retention/blob/main/18-19RetentionPull1(AutoRecovered).xlsx) Excel file provided.
 
 ### Markdown
 
