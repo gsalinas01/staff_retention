@@ -5,16 +5,19 @@ The following report summarizes key data points retrieved from the 2018-2019 sch
 
 # Terminations
 ### What is the most common termination reason?
-  - According to the data, the most common reason for termination is Voluntary Resignation with Notice (69% of all resignations), followed by Voluntary Resignations with no Notice (11% of all resignations).
-  - The least common reason for termination is Voluntary No Return From Leave at <1% (0.7% of all resignations)
+  - According to the data, the most common reason for termination is **Voluntary Resignation with Notice** (69% of all resignations), followed by Voluntary Resignations with no Notice (11% of all resignations).
+  - The least common reason for termination is **Voluntary No Return From Leave** at <1% (0.7% of all resignations)
   
    ![terminationpercentages](https://user-images.githubusercontent.com/60943801/132884590-bf68fb95-ce9a-4c4f-a178-19287fd9b77e.png)
 
-### What month experiences the most exits?
+### What about exits by month?
   - Based on termination data, June contains the highest occurrence rate of exits with 253 exits, accounting for roughly 28% of all terminations.
+    - Taking into consideration the most common termination reason being Voluntary Resignation with Notice, it is not surprising that the majority of exits occur during the last month of the school year.
+  - The month with the least amount of exits is July.
+  
    ![terminationsbymonth](https://user-images.githubusercontent.com/60943801/132886666-5bf85b67-858a-4e6b-8e47-e98a832e1ee5.png)
 
-
+ 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
